@@ -1,0 +1,48 @@
+.mind-crawl { background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%); }
+.midnight-boom {background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);}
+.vicious-stance {background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);}
+.eternal-constance {background-image: linear-gradient(36deg, #09203f 0%, #537895 100%);}
+.morpheus-den {background-image: linear-gradient(to left, #30cfd0 0%, #330867 100%);}
+
+.level-1 {border: none; padding-bottom: 15px;}
+.level-1:hover {background-color: #fff; color: #777; }
+
+.navbar {
+ -webkit-box-shadow:0px 1px 1px #777;
+ -moz-box-shadow:0px 1px 1px #777;
+ box-shadow:0px 1px 1px #777;
+ color: #fff;
+}
+.btm-nav {
+	border-top: 1px solid #eee;
+	background-color: #f9f9f9;
+}
+
+.btn-0 {
+	border: none;
+	text-align: center;
+	color: #ddd;
+	padding:8px 16px;
+	outline:0;
+	width:100%;
+	padding:8px 16px;
+	white-space:normal;
+	float:none;
+	text-align:center;
+	display:block;
+	font-size: 16px;
+}
+.btn:hover {color: #eee;}
+.btn-0 span {
+	text-align: center;
+	width: 100%;
+	font-size: 8px;
+}
+
+.txt-c {text-align: center;}
+.w3-bar .w3-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+.w3-bar .w3-dropdown-hover,.w3-bar .w3-dropdown-click{position:static;float:left}
+.w3-bar .w3-button{white-space:normal}
+.w3-bar-block .w3-bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
+.w3-bar-block.w3-center .w3-bar-item{text-align:center}.w3-block{display:block;width:100%}
+.w3-bar-item.w3-mobile,.w3-dropdown-hover.w3-mobile,.w3-dropdown-click.w3-mobile{text-align:center}
